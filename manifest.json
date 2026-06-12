@@ -1,0 +1,18 @@
+{
+  "id": "roche-multiverse-wall",
+  "name": "多次元时空留声墙",
+  "version": "1.3.0",
+  "description": "拒绝OOC。支持现世、古风、未来手动切换。AI动态生成NPC社区生态，路人反向捞User，由人设与真实聊天记忆深度驱动。",
+  "author": "PureLoveDeveloper",
+  "entry": "https://raw.githubusercontent.com/linyin8945/roche-multiverse-wall/main/plugin.js",
+  "hash": "",
+  "permissions": [
+    "persona:read",
+    "character:read",
+    "memory:read",
+    "conversation:read",
+    "ai:chat",
+    "storage",
+    "ui"
+  ]
+}
